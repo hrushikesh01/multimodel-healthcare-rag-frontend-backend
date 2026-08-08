@@ -1,0 +1,5 @@
+{
+  "name": "ClinicalAssist RAG",
+  "description": "Secure, role-aware clinical Q&A and patient management dashboard with RAG capabilities.",
+  "requestFramePermissions": []
+}

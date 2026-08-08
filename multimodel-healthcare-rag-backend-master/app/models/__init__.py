@@ -1,0 +1,10 @@
+from app.models.audit_log import AuditLog  # noqa: F401
+from app.models.chat import ChatMessage  # noqa: F401
+from app.models.consent import ConsentRecord  # noqa: F401
+from app.models.document import Document  # noqa: F401
+from app.models.document_chunk import DocumentChunk  # noqa: F401
+from app.models.medical_image import MedicalImage  # noqa: F401
+from app.models.patient import Patient  # noqa: F401
+from app.models.patient_access import PatientAccess  # noqa: F401
+from app.models.signup_request import SignupRequest  # noqa: F401
+from app.models.user import User  # noqa: F401
